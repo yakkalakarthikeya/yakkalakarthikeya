@@ -8,14 +8,14 @@ Driven by a strong interest in Artificial Intelligence, Machine Learning, and Cy
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 IEEE Published Author  
-- 🤖 Interested in Artificial Intelligence & Machine Learning  
-- 🔐 Exploring Cybersecurity and Threat Detection  
-- 🌱 Currently learning Full Stack Development  
-- 💡 Passionate about research, innovation, and intelligent systems  
-- 📚 Continuously improving problem-solving and development skills  
+-  IEEE Published Author  
+-  Interested in Artificial Intelligence & Machine Learning  
+-  Exploring Cybersecurity and Threat Detection  
+-  Currently learning Full Stack Development  
+-  Passionate about research, innovation, and intelligent systems  
+-  Continuously improving problem-solving and development skills  
 
 ---
 
@@ -36,15 +36,7 @@ Driven by a strong interest in Artificial Intelligence, Machine Learning, and Cy
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yakkalakarthikeya&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakkalakarthikeya&theme=tokyonight" height="170"/>
-
-</p>
 
 ---
 
