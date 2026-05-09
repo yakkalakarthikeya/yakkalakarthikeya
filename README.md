@@ -1,15 +1,9 @@
+<h1 align="center">Hi 👋, I'm Karthikeya Y</h1>
 
-
-<--
-**yakkalakarthikeya/yakkalakarthikeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working<h1 align="center">Hi 👋, I'm Karthikeya Y</h1>
-<h3 align="center">AI • Machine Learning Enthusiast</h3>
+<h3 align="center">AI • Machine Learning • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-Driven by a strong interest in Artificial Intelligence, Machine Learning, with a passion for creating innovative, secure, and intelligent technology solutions.
+Driven by a strong interest in Artificial Intelligence, Machine Learning, and Cybersecurity, with a passion for creating innovative, secure, and intelligent technology solutions.
 </p>
 
 ---
@@ -28,18 +22,17 @@ Driven by a strong interest in Artificial Intelligence, Machine Learning, with a
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,git,github,linux,mysql,vscode" />
-
 </p>
 
 ### Domains
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Data Analysis
-- Threat Detection
-- Research & Development
+
+- Artificial Intelligence  
+- Machine Learning  
+- Cybersecurity  
+- Data Analysis  
+- Threat Detection  
+- Research & Development  
 
 ---
 
@@ -47,9 +40,9 @@ Driven by a strong interest in Artificial Intelligence, Machine Learning, with a
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yakkalakarthikeyashow_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=yakkalakarthikeya&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakkalakarthikeya&theme=tokyonight" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakkalakarthikeya&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -59,23 +52,14 @@ Driven by a strong interest in Artificial Intelligence, Machine Learning, with a
 
 <p align="left">
 
-<a href="https://github.com/yakkalakarthikeya" target="blank">
+<a href="https://github.com/yakkalakarthikeya" target="_blank">
 GitHub
 </a>
-
 
 </p>
 
 ---
 
 <p align="center">
-"Building secure and intelligent solutions with AI and innovation."
-</p> on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building secure and intelligent solutions with AI and innovation.
+</p>
