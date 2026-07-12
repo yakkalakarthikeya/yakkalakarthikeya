@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Karthikeya%20Y&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Full%20Stack%20•%20Cybersecurity&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Karthikeya%20Y&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IEEE+Published+Author+%F0%9F%93%84;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Research+%26+Innovation+Driven+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IEEE+Published+Author+%F0%9F%93%84;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Explainable%2C+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=yakkalakarthikeya&style=flat-square&color=58a6ff" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/yakkalakarthikeya?style=flat-square&color=58a6ff&label=Followers"/>
+</p>
 
 </div>
 
@@ -12,17 +17,41 @@
 
 ## 🧠 About Me
 
-```python
-class Karthikeya:
-    name       = "Karthikeya Y"
-    role       = ["AI Engineer", "ML Developer", "Full Stack Developer", "Cybersecurity Enthusiast"]
-    ieee       = "Published IEEE Author 📄"
-    education  = "B.Tech - Computer Science"
-    interests  = ["Artificial Intelligence", "Machine Learning",
-                  "Full Stack Development", "Cybersecurity", "Data science"]
-    currently  = "Building intelligent & secure technology solutions"
-    goal       = "Bridging AI innovation with real-world applications"
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👋 Hey, I'm Karthikeya
+
+I'm an **AI/ML Engineer** and **Full Stack Developer** who loves turning research ideas into working systems — from explainable deep learning models to production-ready web apps.
+
+Currently building intelligent tools around **computer vision, LLMs, and predictive modeling**, with a growing publication record in **IEEE conferences**.
+
+🔭 Deep into deep learning, explainability, and full-stack engineering
+🌱 Currently exploring computer vision & time-series forecasting
+🤝 Open to **AI/ML internship** opportunities
+💬 Ask me about **PyTorch, SHAP, LLM integration, or React**
+
+</td>
+<td width="50%" valign="top">
+
+|  |  |
+|---|---|
+| 🎓 **Education** | B.Tech, AI & Data Science |
+| 🏫 **University** | Amrita School of AI |
+| 📅 **Graduating** | 2028 |
+| 📄 **Publication** | IEEE — *AntBot* (ICAECT 2026) |
+| 🎯 **Roles** | AI/ML Engineer · Full Stack Dev |
+| 🧪 **Focus Areas** | Deep Learning · Explainable AI · LLMs |
+| 🚀 **Status** | Seeking AI/ML internships |
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -32,11 +61,10 @@ class Karthikeya:
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
-| 📄 IEEE Published Author | Peer-reviewed research publication in IEEE |
-| 🤖 AI & ML Developer | Built explainable AI systems with SHAP & LLMs |
-| 🌐 Full Stack Developer | Developing end-to-end web applications |
-| 🔐 Cybersecurity Enthusiast | Exploring threat detection & secure systems |
-| 🔬 Researcher | Passionate about innovation and R&D |
+| 📄 IEEE Published Author | Authored *AntBot: Hexapod Surveillance Platform*, presented at ICAECT 2026 |
+| 🤖 AI/ML Engineer | Built explainable AI systems combining SHAP, CNNs & LLMs |
+| 🌐 Full Stack Developer | Designed & shipped end-to-end web applications with React and Node.js |
+| 🔬 Researcher | Actively co-authoring IEEE research on fuzzy feature engineering for traffic prediction |
 
 </div>
 
@@ -46,17 +74,18 @@ class Karthikeya:
 
 ### 💻 Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,linux,mysql,vscode,mongodb,express" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,mysql,vscode,mongodb,express" />
 </p>
 
 ### 🤖 AI / ML Stack
 <p align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SHAP-Explainability-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq-LLaMA_3.3-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### 🌐 Full Stack
@@ -66,13 +95,8 @@ class Karthikeya:
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔐 Cybersecurity
-<p align="left">
-<img src="https://img.shields.io/badge/Threat%20Detection-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Network%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -90,20 +114,24 @@ class Karthikeya:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakkalakarthikeya&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yakkalakarthikeya&theme=tokyo-night&hide_border=true" />
+</div>
+
 ---
 
 ## 📄 IEEE Publication
 
-> 🏅 Proud to be an **IEEE Published Author** — contributing peer-reviewed research to the global scientific community in the domains of **Artificial Intelligence** and **intelligent systems**.
+> 🏅 **AntBot: A Hexapod Surveillance Platform** — peer-reviewed research presented at ICAECT 2026, exploring intelligent robotic systems for surveillance applications. Proud to contribute original research to the global AI & robotics community.
 
 ---
 
 ## 🚀 What I'm Working On
 
+- 🖼️ **Document Forgery & Tampering Detection** — Error Level Analysis + fine-tuned ResNet-18 CNN on the CASIA v2 dataset
+- 🚦 **Fuzzy Feature Engineering for Urban Traffic Prediction** — comparing LSTM, SNN, Random Forest & LightGBM (IEEE paper, co-authored)
 - 🔬 Explainable AI systems using **SHAP + LLMs**
-- 🌐 Full Stack web applications with **React + Node.js**
-- 🔐 Cybersecurity tools for **threat detection & analysis**
-- 📚 Expanding research in **AI-driven decision systems**
+- 🌐 Full-stack web applications with **React + Node.js**
 
 ---
 
