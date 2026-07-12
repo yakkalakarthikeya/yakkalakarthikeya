@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Karthikeya%20Y&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+# Hi, I'm Karthikeya Y 👋
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IEEE+Published+Author+%F0%9F%93%84;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Explainable%2C+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+### AI/ML Engineer &nbsp;•&nbsp; Full Stack Developer
+
+<p align="center">
+<img src="https://img.shields.io/badge/IEEE%20Published%20Author-📄-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineer-🤖-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-💻-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF"/>
+</p>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=yakkalakarthikeya&style=flat-square&color=58a6ff" alt="profile views"/>
@@ -148,5 +152,7 @@ Currently building intelligent tools around **computer vision, LLMs, and predict
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer"/>
+
+⭐ **Thanks for stopping by!** Feel free to explore my repositories and reach out.
+
 </div>
