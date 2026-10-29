@@ -1,213 +1,235 @@
- <div align="center">
+# Karthikeya Y | AI • Data Science • Intelligent Systems
 
-# Karthikeya Y
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Karthikeya Y — AI, Data Science and Intelligent Systems" width="100%" />
+</p>
 
-### AI/ML Engineer · Applied AI Research · Software Developer
-
-I build intelligent systems that connect machine learning research with practical applications — from explainable cybersecurity and legal document intelligence to robotics and autonomous control.
-
-<p>
-  <a href="https://github.com/yakkalakarthikeya?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<p align="center">
+  <a href="https://github.com/yakkalakarthikeya">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/yakkala-karthikeya-421278335/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yakkalakarthikeya?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
-**Artificial Intelligence · Explainable ML · Cybersecurity · Robotics · Control Systems**
-
-</div>
-
----
-
-## 01 / About
-
-I'm a B.Tech student in Artificial Intelligence and Data Science at Amrita School of AI, interested in building intelligent, reliable, and interpretable systems.
-
-My work spans applied machine learning, LLM-powered applications, cybersecurity, signal classification, and control engineering. I enjoy understanding a problem from its fundamentals, designing an appropriate solution, implementing it, and evaluating its behaviour.
-
-**What drives my work**
-
-- **Research to implementation** — turning technical ideas into working prototypes and experiments.
-- **Explainable intelligence** — understanding why models make predictions, not just what they predict.
-- **Reliable AI applications** — grounding language-model responses in retrieved evidence and evaluating their limitations.
-- **Systems thinking** — connecting algorithms, data pipelines, simulation, and user interfaces.
-
-Currently interested in AI/ML internships, applied research, and engineering collaborations.
+<p align="center">
+  <i>Building intelligent systems at the intersection of AI, cybersecurity, language models, robotics, and control engineering.</i>
+</p>
 
 ---
 
-## 02 / Selected Projects
+## `01` — About Me
 
-A selection of work across intelligent applications, machine learning, security, and robotics.
+I'm an Artificial Intelligence and Data Science student interested in turning research ideas into practical, explainable, and reliable intelligent systems.
 
-### ⚖️ LegalRAG-AI
-**Retrieval-Augmented Generation · NLP · Document Intelligence**
+My work spans machine learning, agentic AI, explainable cybersecurity, retrieval-augmented generation, robotics, and multi-agent control systems. I enjoy working across the complete problem-solving process—from understanding a problem and preparing data to implementing models, evaluating results, and building usable applications.
 
-An AI-assisted legal document analysis system that retrieves relevant clauses from uploaded PDFs and generates context-grounded responses.
-
-- PDF extraction and clause-level segmentation.
-- Sentence-BERT embeddings and FAISS-based semantic retrieval.
-- Adaptive clause selection and relevance validation.
-- Answer faithfulness and hallucination-risk evaluation.
-
-**Technologies:** Python · Sentence Transformers · FAISS · LLaMA · Streamlit
-
-[Repository ↗](https://github.com/yakkalakarthikeya/LegalRAG-AI) · [Live application ↗](https://legalrag-ai-njng7wo4zo3unn75gobu49.streamlit.app)
-
-### 🛡️ Explainable AI for Cybersecurity
-**Machine Learning · Threat Detection · Model Interpretability**
-
-Explores machine-learning-based security analysis with explainability to help interpret suspicious network behaviour and potential threats.
-
-- Security-oriented feature analysis and classification.
-- SHAP-based interpretation of model predictions.
-- Model outputs presented through an application interface.
-
-**Technologies:** Python · Scikit-learn · SHAP · Machine Learning
-
-[Explore my repositories ↗](https://github.com/yakkalakarthikeya?tab=repositories)
-
-### 🛰️ Communication-Aware Fault-Tolerant Spacecraft Coordination
-**Control Engineering · Multi-Agent Systems · Simulation**
-
-A four-spacecraft coordination project focused on attitude control, fault tolerance, and communication-aware control strategies.
-
-- Coordination of multiple spacecraft in simulation.
-- Fault-tolerant attitude-control approaches.
-- Event-triggered and self-triggered control concepts.
-- Analysis of simulation results, control responses, and communication behaviour.
-
-**Technologies:** MATLAB · Simulink · Control Systems
-
-[Repository ↗](https://github.com/yakkalakarthikeya/Communication-Aware-Fault-Tolerant-Attitude-Coordination-of-Four-Satellites)
-
-### 📡 Digital Modulation Classification
-**Machine Learning · Signal Processing**
-
-A classification pipeline for identifying digital modulation patterns from signal data.
-
-- RadioML dataset processing.
-- Feature preparation and model training.
-- XGBoost-based classification.
-- Evaluation of classification performance.
-
-**Technologies:** Python · XGBoost · NumPy · Pandas · Scikit-learn
-
-[Explore my repositories ↗](https://github.com/yakkalakarthikeya?tab=repositories)
-
-### 🔐 AI-Based Payload Analyzer
-**Application Security · Classification · Web Development**
-
-A machine-learning-assisted application for analysing potentially malicious web payloads, including common injection patterns.
-
-- TF-IDF-based text feature representation.
-- Random Forest classification.
-- Analysis of potentially suspicious inputs.
-- Flask-based application interface.
-
-**Technologies:** Python · Scikit-learn · TF-IDF · Flask
-
-[Explore my repositories ↗](https://github.com/yakkalakarthikeya?tab=repositories)
-
-### 🤖 AntBot — Hexapod Surveillance Platform
-**Robotics · Kinematics · Intelligent Systems**
-
-A low-cost hexapod robotics project exploring legged locomotion and surveillance applications.
-
-- Hexapod platform and gait design.
-- Inverse-kinematics-based locomotion.
-- Robotics implementation and experimental evaluation.
-
-**Technologies:** Robotics · Kinematics · Python
-
-[Repository ↗](https://github.com/yakkalakarthikeya/ANTBOT---The-Hexapod-Robot)
+- **Focus:** Machine Learning, Agentic AI, Explainable AI, NLP, and intelligent systems
+- **Research interests:** Cybersecurity, trustworthy AI, robotics, and autonomous systems
+- **Approach:** Experiment, evaluate, understand failure cases, and improve
+- **Currently exploring:** AI agents, explainability, and dependable AI-driven decision systems
 
 ---
 
-## 03 / Research
+## `02` — Featured Projects
 
-My research interests lie at the intersection of applied AI, interpretable machine learning, robotics, and intelligent control.
+<p align="center">
+  <img src="https://img.shields.io/badge/01-CYBERSECURITY-8B5CF6?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/02-GENERATIVE%20AI-06B6D4?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/03-ROBOTICS-84CC16?style=flat-square" alt="Robotics" />
+</p>
 
-| Area | Research direction |
-|---|---|
-| Explainable AI | Understanding model decisions through feature attribution |
-| NLP and LLMs | Semantic retrieval, grounded generation, and answer evaluation |
-| Cybersecurity | Machine-learning-based threat analysis |
-| Signal Processing | Data-driven digital modulation classification |
-| Robotics | Legged locomotion and kinematic modelling |
-| Control Systems | Fault-tolerant and communication-aware spacecraft coordination |
+### ◈ 01. Agentic AI-Based Cyber Attack Detection and Investigation
 
-**Research highlight:** AntBot — a hexapod surveillance platform associated with the ICAECT 2026 research work described in my project materials.
+**Explainable machine learning for cybersecurity threat analysis**
 
-[View the project ↗](https://github.com/yakkalakarthikeya/ANTBOT---The-Hexapod-Robot)
+An AI-based cybersecurity project focused on detecting network attacks and supporting investigation through explainable machine learning. The project considers multiple traffic categories and combines classification with explainability to make model decisions easier to inspect.
 
----
+**Key components**
+- Multi-class traffic classification, including normal traffic and attack categories
+- Machine learning-based attack detection
+- Explainable ML to help interpret predictions and identify influential features
+- Investigation-oriented analysis of suspicious network activity
+- Evaluation of model behaviour across different traffic classes
 
-## 04 / Technical Skills
+**Technologies:** Python · Machine Learning · Explainable AI · SHAP · Data Analysis
 
-My technical stack reflects the tools and methods relevant to my projects.
-
-**Programming and development**
-
-`Python` `C++` `JavaScript` `HTML` `CSS` `Git` `GitHub`
-
-**Machine learning and data processing**
-
-`Scikit-learn` `XGBoost` `NumPy` `Pandas` `TF-IDF`
-
-**NLP and language-model applications**
-
-`Sentence-BERT` `Sentence Transformers` `FAISS` `RAG` `LLaMA` `Groq API`
-
-**Explainability and evaluation**
-
-`SHAP` `Semantic Similarity` `Classification Metrics` `Faithfulness Evaluation`
-
-**Application development**
-
-`Flask` `Streamlit`
-
-**Robotics and simulation**
-
-`MATLAB` `Simulink` `Kinematics` `Control Systems`
+<p>
+  <a href="https://github.com/yakkalakarthikeya/Agentic-AI-Based-Cyber-Attack-Detection-and-Investigation-using-Explainable-ML">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View cybersecurity project" />
+  </a>
+</p>
 
 ---
 
-## 05 / Current Focus
+### ◈ 02. LegalRAG-AI
 
-- Improving retrieval and evaluation methods for context-grounded LLM applications.
-- Exploring interpretable machine-learning approaches for cybersecurity.
-- Studying communication-aware coordination and fault-tolerant control.
-- Strengthening experimental design, model evaluation, and research documentation.
-- Building practical AI applications with clear interfaces and reproducible workflows.
+**Retrieval-augmented generation for legal document question answering**
+
+A legal document analysis application designed to retrieve relevant passages from uploaded documents and generate context-grounded responses. It combines semantic retrieval with language-model generation and evaluation mechanisms to help users inspect the relevance and faithfulness of generated answers.
+
+**Key components**
+- PDF extraction and clause-level document chunking
+- Sentence-BERT embeddings for semantic representation
+- FAISS-based similarity search and retrieval
+- Context-grounded answer generation using a LLaMA model
+- Relevance validation and faithfulness-oriented evaluation
+
+**Technologies:** Python · Streamlit · Sentence Transformers · FAISS · RAG · LLaMA
+
+<p>
+  <a href="https://github.com/yakkalakarthikeya/LegalRAG-AI">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View LegalRAG-AI" />
+  </a>
+  <a href="https://legalrag-ai-njng7wo4zo3unn75gobu49.streamlit.app">
+    <img src="https://img.shields.io/badge/OPEN%20APP-Live%20Demo-0D9488?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open LegalRAG-AI demo" />
+  </a>
+</p>
 
 ---
 
-## 06 / Beyond the Model
+### ◈ 03. AntBot — Hexapod Surveillance Platform
 
-I believe a good engineering project should do more than produce a prediction. It should have a clear problem definition, a defensible technical approach, meaningful evaluation, and results that other people can understand.
+**Accessible robotic platform for surveillance research**
 
-That's the principle I try to bring to every project — whether I'm working with a language model, a classifier, or a simulated robotic system.
+A hexapod robotics project exploring a multi-legged platform for surveillance applications. The work focuses on the design and experimental validation of an accessible robotic system, with emphasis on locomotion, mechanical design, and robotics concepts.
+
+**Key areas**
+- Hexapod robot platform design
+- Multi-legged locomotion concepts
+- Kinematics and movement planning
+- Robotics for surveillance-oriented applications
+- Design and experimental validation
+
+**Technologies:** Robotics · Kinematics · Control Systems · Engineering Design
+
+<p>
+  <a href="https://github.com/yakkalakarthikeya?tab=repositories">
+    <img src="https://img.shields.io/badge/FIND%20PROJECT-My%20Repositories-84CC16?style=for-the-badge&logo=github&logoColor=white" alt="Find AntBot project" />
+  </a>
+</p>
 
 ---
 
-## Connect
+### ◈ 04. Multi-Satellite Attitude Coordination and Fault-Tolerant Control
 
-I'm open to conversations about applied AI, machine learning, research, cybersecurity, and intelligent systems.
+**Coordinated autonomous systems and control engineering**
 
-<div align="center">
+An area of work involving multi-spacecraft attitude coordination, communication-aware control, and fault-tolerant system behaviour. The focus is on understanding how distributed spacecraft can coordinate their orientation while accounting for communication constraints and potential faults.
 
-<a href="https://github.com/yakkalakarthikeya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/yakkala-karthikeya-421278335/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+**Key areas**
+- Multi-agent and multi-spacecraft coordination
+- Attitude control and system dynamics
+- Fault-tolerant control strategies
+- Communication-aware coordination
+- Simulation-based analysis of system behaviour
 
-<br/><br/>
+**Technologies:** MATLAB · Simulink · Control Systems · Simulation
 
-*Research with purpose. Engineering with evidence.*
+<p>
+  <a href="https://github.com/yakkalakarthikeya?tab=repositories">
+    <img src="https://img.shields.io/badge/FIND%20PROJECT-My%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Find spacecraft project" />
+  </a>
+</p>
 
-</div>
+---
+
+## `03` — Technical Toolkit
+
+### Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Machine Learning and Explainability
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square" alt="SHAP" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+### Generative AI and Information Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" alt="Retrieval-augmented generation" />
+  <img src="https://img.shields.io/badge/Sentence--BERT-4F46E5?style=flat-square" alt="Sentence-BERT" />
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/LLaMA-7C3AED?style=flat-square" alt="LLaMA" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### Robotics and Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/Control%20Systems-0F766E?style=flat-square" alt="Control systems" />
+  <img src="https://img.shields.io/badge/Robotics-65A30D?style=flat-square" alt="Robotics" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## `04` — Research and Development
+
+I am particularly interested in projects where AI must do more than produce a prediction.
+
+- **Explainable cybersecurity:** Making threat detection easier to interpret and investigate.
+- **Trustworthy language models:** Improving retrieval quality, grounding, and answer evaluation.
+- **Autonomous robotics:** Exploring locomotion, coordination, and control.
+- **Distributed intelligent systems:** Studying communication-aware coordination and fault tolerance.
+- **Applied machine learning:** Comparing methods carefully and reporting results based on actual experiments.
+
+My goal is to build systems that are not only functional, but also measurable, understandable, and useful in real applications.
+
+---
+
+## `05` — Current Direction
+
+```text
+LEARN       → Build strong foundations
+EXPERIMENT  → Test ideas against real data
+EVALUATE    → Measure performance and limitations
+EXPLAIN     → Make decisions understandable
+BUILD       → Turn research into working systems
+```
+
+I enjoy collaborating on meaningful technical projects, learning new tools through implementation, and exploring ideas that connect research with practical engineering.
+
+---
+
+## `06` — Let's Connect
+
+<p align="center">
+  <a href="https://github.com/yakkalakarthikeya">
+    <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/yakkala-karthikeya-421278335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Build with purpose. Research with curiosity. Engineer with clarity.</b>
+</p>
+
+<p align="center">
+  <sub>AI • Data Science • Cybersecurity • NLP • Robotics • Intelligent Systems</sub>
+</p>
