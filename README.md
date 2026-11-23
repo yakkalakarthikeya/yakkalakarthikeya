@@ -330,63 +330,40 @@ I enjoy collaborating on meaningful technical projects, learning new tools throu
 
 </div>
 
-<!-- ═══════════════ ENGINEERING MINDSET ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=Engineering%20Mindset&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="Engineering Mindset" />
+<!-- ═══════════════ TECHNICAL INTERESTS IN PRACTICE ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=06%20%C2%B7%20Technical%20Interests%20in%20Practice&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="Technical Interests in Practice" />
 
 <div align="center">
 
-### Turning ideas into dependable intelligent systems
-
-I approach every project with a balance of **curiosity, experimentation, and engineering discipline**.
+A few themes connect the projects I build and the technologies I explore.
 
 </div>
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top" align="center">
 
-**🔍 Understand the problem**
+**🧠 Intelligent Models**
 
-Start with the real-world need, define the objective, and identify meaningful constraints.
-
-</td>
-    <td width="50%" valign="top">
-
-**🧪 Build and experiment**
-
-Develop practical solutions, test alternatives, and learn from unexpected results.
+Machine learning, explainability, and evaluation for systems that make useful predictions.
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top" align="center">
 
-**📊 Measure what matters**
+**📚 Language & Knowledge**
 
-Evaluate with relevant metrics, inspect limitations, and avoid unsupported claims.
+NLP, semantic search, and retrieval-augmented generation for document understanding.
 
 </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top" align="center">
 
-**💡 Make it explainable**
+**🤖 Autonomous Systems**
 
-Prioritize transparent decisions, clear documentation, and solutions people can use.
+Robotics, multi-agent coordination, and control methods for intelligent behavior.
 
 </td>
   </tr>
 </table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Curiosity-Research-8B5CF6?style=for-the-badge" alt="Curiosity and research" />
-<img src="https://img.shields.io/badge/Discipline-Engineering-06B6D4?style=for-the-badge" alt="Discipline and engineering" />
-<img src="https://img.shields.io/badge/Impact-Practical%20Solutions-16A34A?style=for-the-badge" alt="Practical solutions" />
-
-<br/><br/>
-
-*Interested in collaborating on AI, machine learning, cybersecurity, and intelligent systems.*
-
-</div>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=06%20%C2%B7%20Let's%20Connect&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="Let's Connect" />
