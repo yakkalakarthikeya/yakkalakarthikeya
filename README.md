@@ -330,21 +330,61 @@ I enjoy collaborating on meaningful technical projects, learning new tools throu
 
 </div>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=GitHub%20Activity&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="GitHub Activity" />
+<!-- ═══════════════ ENGINEERING MINDSET ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=Engineering%20Mindset&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="Engineering Mindset" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yakkalakarthikeya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakkalakarthikeya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+### Turning ideas into dependable intelligent systems
 
-<br/>
+I approach every project with a balance of **curiosity, experimentation, and engineering discipline**.
 
-<img src="https://streak-stats.demolab.com?user=yakkalakarthikeya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
-<br/>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yakkalakarthikeya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+**🔍 Understand the problem**
+
+Start with the real-world need, define the objective, and identify meaningful constraints.
+
+</td>
+    <td width="50%" valign="top">
+
+**🧪 Build and experiment**
+
+Develop practical solutions, test alternatives, and learn from unexpected results.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**📊 Measure what matters**
+
+Evaluate with relevant metrics, inspect limitations, and avoid unsupported claims.
+
+</td>
+    <td width="50%" valign="top">
+
+**💡 Make it explainable**
+
+Prioritize transparent decisions, clear documentation, and solutions people can use.
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Curiosity-Research-8B5CF6?style=for-the-badge" alt="Curiosity and research" />
+<img src="https://img.shields.io/badge/Discipline-Engineering-06B6D4?style=for-the-badge" alt="Discipline and engineering" />
+<img src="https://img.shields.io/badge/Impact-Practical%20Solutions-16A34A?style=for-the-badge" alt="Practical solutions" />
+
+<br/><br/>
+
+*Interested in collaborating on AI, machine learning, cybersecurity, and intelligent systems.*
 
 </div>
 
