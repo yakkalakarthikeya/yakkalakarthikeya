@@ -330,12 +330,12 @@ I enjoy collaborating on meaningful technical projects, learning new tools throu
 
 </div>
 
-<!-- ═══════════════ TECHNICAL INTERESTS IN PRACTICE ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=06%20%C2%B7%20Technical%20Interests%20in%20Practice&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="Technical Interests in Practice" />
+<!-- ═══════════════ BUILDING PHILOSOPHY ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=06%20%C2%B7%20Building%20with%20Purpose&fontSize=30&fontColor=A78BFA&fontAlignY=55" alt="Building with Purpose" />
 
 <div align="center">
 
-A few themes connect the projects I build and the technologies I explore.
+I approach every project with a focus on **solving a meaningful problem, validating ideas through experimentation, and creating systems that are understandable and useful beyond the prototype.**
 
 </div>
 
@@ -343,23 +343,23 @@ A few themes connect the projects I build and the technologies I explore.
   <tr>
     <td width="33%" valign="top" align="center">
 
-**🧠 Intelligent Models**
+**🎯 Problem First**
 
-Machine learning, explainability, and evaluation for systems that make useful predictions.
-
-</td>
-    <td width="33%" valign="top" align="center">
-
-**📚 Language & Knowledge**
-
-NLP, semantic search, and retrieval-augmented generation for document understanding.
+Start with the real-world need, define the problem clearly, and choose methods that fit the task.
 
 </td>
     <td width="33%" valign="top" align="center">
 
-**🤖 Autonomous Systems**
+**📊 Evidence Driven**
 
-Robotics, multi-agent coordination, and control methods for intelligent behavior.
+Evaluate with relevant metrics, examine limitations, and let experimental results guide improvements.
+
+</td>
+    <td width="33%" valign="top" align="center">
+
+**🚀 Practical Outcomes**
+
+Bring models, software, and engineering together to develop solutions that can be tested and used.
 
 </td>
   </tr>
